@@ -4,3 +4,6 @@ Este proyecto grupal trata de ser un apoyo a los estudiantes que quieran reforza
 Integrantes
 
 -Carolina Ramirez(institucional)
+-Lez Gonzales(cuenta alterna)
+-Rodolfo Cabarcas(cuenta alterna)
+-Alejandro Diaz(cuenta alterna)
