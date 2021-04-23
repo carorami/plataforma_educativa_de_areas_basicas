@@ -5,3 +5,4 @@ Integrantes
 
 -Carolina Ramirez(institucional)
 -alejandro diaz  (institucional)
+-Lez Gonzalez (institucional)
