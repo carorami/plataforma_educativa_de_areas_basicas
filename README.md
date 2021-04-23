@@ -4,4 +4,4 @@ Este proyecto grupal trata de ser un apoyo a los estudiantes que quieran reforza
 Integrantes
 
 -Carolina Ramirez(institucional)
--alejandro diaz (intitucional)
+-alejandro diaz gonzalez (intitucional)
